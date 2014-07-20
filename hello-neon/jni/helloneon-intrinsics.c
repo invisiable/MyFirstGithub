@@ -61,4 +61,9 @@ fir_filter_neon_intrinsics(short *output, const short* input, const short* kerne
         output[n] = (short)((sum + 0x8000) >> 16);
     }
 #endif
+	//²âÊÔĞŞ¸Äº¯Êı
+	void TestModifyFun()
+	{
+
+	}
 }
