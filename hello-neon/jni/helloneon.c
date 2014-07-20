@@ -27,6 +27,12 @@ void main()
 	printf("Start our new Project!");
 }
 
+//¼ÌĞø²âÊÔĞŞ¸Ä´úÂë
+void ModifyCode(int i)
+{
+	printf("android ndk!");
+}
+
 #define DEBUG 0
 
 #if DEBUG
